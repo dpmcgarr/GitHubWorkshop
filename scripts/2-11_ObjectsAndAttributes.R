@@ -1,4 +1,4 @@
-{
+# left test{
   rm(list=ls());  options(show.error.locations = TRUE);
   
   ### A numeric vector with one value
